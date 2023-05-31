@@ -17,10 +17,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <Head>
+      {/* <Head>
 
       <link rel="icon" href="/favicon.ico" />
-      </Head>
+      </Head> */}
        <div className="w-full flex flex-col items-center">
           <div className="w-full max-w-[80%] ">
             <Navbar />
