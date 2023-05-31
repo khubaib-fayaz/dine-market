@@ -19,7 +19,7 @@ export default function RootLayout({
     <html lang="en">
       <Head>
 
-      <link rel="icon" href="/mini.ico" />
+      <link rel="icon" href="/favicon.ico" />
       </Head>
        <div className="w-full flex flex-col items-center">
           <div className="w-full max-w-[80%] ">

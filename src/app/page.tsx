@@ -5,9 +5,9 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div className="top-0 w-full max-w-[90%] mx-auto">
-      <Head>
+      {/* <Head>
         <link rel="shortcut icon" href="/mini.png" />
-      </Head>
+      </Head> */}
       {/* <Navbar/> */}
     </div>
   );
